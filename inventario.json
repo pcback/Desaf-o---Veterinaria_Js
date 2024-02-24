@@ -1,0 +1,24 @@
+[
+  {
+    "nombreAnimal": "pulgoso",
+    "edad": "2",
+    "tipoAnimal": "perro",
+    "colorAnimal": "cafe",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombreAnimal": "copo",
+    "edad": "1",
+    "tipoAnimal": "perra",
+    "colorAnimal": "blanco",
+    "enfermedad": "mareos"
+  },
+  {
+    "nombreAnimal": "copos",
+    "edad": "10",
+    "tipoAnimal": "perras",
+    "colorAnimal": "blancos",
+    "enfermedad": "mareoss"
+  },
+  {}
+]
